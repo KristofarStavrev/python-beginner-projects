@@ -1,4 +1,4 @@
-# Creating the game "Guesser" where your goal is to guess the randomly selected number; Christopher Stavrev; 16.06.2017; Made on Python 3.6
+# Creating the game "Guesser" where your goal is to guess the randomly selected number; 16.06.2017; Made on Python 3.6
 
 # Adding imports
 import random
