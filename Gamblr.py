@@ -1,4 +1,4 @@
-# Creating the game "Gamblr" where your goal is to guess if the next number will be higher or lower than the previous one; Christopher Stavrev; 04.07.2017; Made on Python 3.6
+# Creating the game "Gamblr" where your goal is to guess if the next number will be higher or lower than the previous one; 04.07.2017; Made on Python 3.6
 
 # Adding imports
 import random
