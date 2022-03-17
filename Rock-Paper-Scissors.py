@@ -1,4 +1,4 @@
-# Creating a basic rock, paper, scissors game on Python 3.6; Christopher Stavrev; 18.06.2017
+# Creating a basic rock, paper, scissors game on Python 3.6; 18.06.2017
 
 # Adding imports
 import random
